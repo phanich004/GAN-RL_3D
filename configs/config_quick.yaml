@@ -1,0 +1,130 @@
+# RL-GAN-Net Quick Configuration (10 epoch run)
+# Based on "RL-GAN-Net: A Reinforcement Learning Agent Controlled GAN Network for Real-Time Point Cloud Shape Completion"
+
+# Model Configuration
+model:
+  # Autoencoder settings
+  autoencoder:
+    input_dim: 3  # x, y, z coordinates
+    latent_dim: 128  # Global Feature Vector dimension
+    num_points: 2048  # Number of points in point cloud
+    encoder_dims: [64, 128, 128, 256, 128]  # Encoder layer dimensions
+    decoder_dims: [256, 256, 6144]  # Decoder layer dimensions (6144 = 2048 * 3)
+    
+  # Latent GAN settings
+  lgan:
+    z_dim: 1  # Noise vector dimension (kept small for easier RL control)
+    latent_dim: 128  # Must match autoencoder latent_dim
+    generator_dims: [256, 512, 512, 256, 128]
+    discriminator_dims: [128, 256, 512, 256, 1]
+    
+  # RL Agent settings
+  rl_agent:
+    state_dim: 128  # Same as latent_dim
+    action_dim: 1   # z-vector dimension
+    hidden_dims: [400, 400, 300, 300]
+    actor_lr: 1e-4
+    critic_lr: 1e-3
+    tau: 0.005  # Soft update parameter
+    gamma: 0.99  # Discount factor
+    buffer_size: 100000
+    batch_size: 64
+
+# Training Configuration
+training:
+  # General settings
+  device: "cpu"  # Use CPU for compatibility
+  seed: 42
+  batch_size: 16  # Reduced for faster training
+  num_workers: 2  # Reduced for faster training
+  checkpoint_dir: "./checkpoints"
+  log_dir: "./logs"
+  results_dir: "./results"
+  
+  # Training phases - QUICK RUN
+  autoencoder:
+    epochs: 5  # Quick run - reduced from 100
+    batch_size: 16
+    lr: 1e-3
+    weight_decay: 1e-5
+    scheduler_step: 10
+    scheduler_gamma: 0.5
+    
+  lgan:
+    epochs: 3  # Quick run - reduced from 200
+    batch_size: 16
+    generator_lr: 1e-4
+    discriminator_lr: 1e-4
+    beta1: 0.5
+    beta2: 0.9
+    lambda_gp: 10  # Gradient penalty weight for WGAN-GP
+    d_steps: 3  # Reduced discriminator updates
+    
+  rl_agent:
+    episodes: 100  # Quick run - reduced from 1000
+    max_steps_per_episode: 5  # Reduced steps
+    exploration_noise: 0.1
+    policy_noise: 0.2
+    noise_clip: 0.5
+    policy_delay: 2
+    start_training_steps: 50  # Start training earlier
+    
+  # Joint fine-tuning phase
+  joint:
+    enabled: true
+    epochs: 2  # Quick run - reduced from 50
+    lr: 1e-4
+    weight_decay: 1e-5
+
+# Loss Configuration
+loss:
+  # Reward function weights
+  w_chamfer: 100.0  # Weight for Chamfer loss in reward
+  w_gfv: 10.0      # Weight for GFV loss in reward  
+  w_discriminator: 0.01  # Weight for discriminator loss in reward
+  
+  # Loss function types
+  chamfer_loss: "bidirectional"  # bidirectional chamfer distance
+  reconstruction_loss: "mse"     # MSE for autoencoder reconstruction
+
+# Data Configuration
+data:
+  # Dataset path
+  data_dir: "./data/shapenet"
+  
+  # Dataset settings
+  train_split: 0.8
+  val_split: 0.1
+  test_split: 0.1
+  
+  # Data augmentation
+  augmentation:
+    rotation: true
+    jitter: true
+    scale: true
+    
+  # Point cloud processing
+  normalize: true
+  center: true
+  unit_sphere: true
+
+# Evaluation Configuration
+evaluation:
+  metrics: ["chamfer_distance", "completion_ratio", "hausdorff_distance"]
+  save_visualizations: true
+  eval_frequency: 2  # Evaluate every 2 epochs for quick feedback
+  
+# Logging Configuration
+logging:
+  use_wandb: false  # Disable for quick run
+  use_tensorboard: false  # Disable for compatibility
+  project_name: "RL-GAN-Net-Quick"
+  log_frequency: 10  # Log more frequently
+  save_model_frequency: 2  # Save checkpoints more frequently
+  
+# Paths
+paths:
+  data_dir: "./data"
+  checkpoint_dir: "./checkpoints"
+  results_dir: "./results"
+  logs_dir: "./logs" 

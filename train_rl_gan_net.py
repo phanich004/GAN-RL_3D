@@ -6,7 +6,6 @@ Follows the methodology from the original CVPR 2019 paper
 import torch
 import torch.nn as nn
 import torch.optim as optim
-from torch.utils.tensorboard import SummaryWriter
 import numpy as np
 import os
 import yaml
@@ -43,6 +42,9 @@ class RLGANNetTrainer:
         with open(config_path, 'r') as f:
             self.config = yaml.safe_load(f)
         
+        # Ensure numeric values are properly converted
+        self._convert_numeric_values()
+        
         # Setup device
         self.device = torch.device(self.config['training']['device'])
         print(f"Using device: {self.device}")
@@ -66,6 +68,37 @@ class RLGANNetTrainer:
         # Training state
         self.current_phase = "autoencoder"
         self.epoch = 0
+    
+    def _convert_numeric_values(self):
+        """Convert string numeric values to proper types."""
+        # Convert RL agent learning rates
+        rl_config = self.config['model']['rl_agent']
+        rl_config['actor_lr'] = float(rl_config['actor_lr'])
+        rl_config['critic_lr'] = float(rl_config['critic_lr'])
+        rl_config['tau'] = float(rl_config['tau'])
+        rl_config['gamma'] = float(rl_config['gamma'])
+        
+        # Convert training learning rates
+        autoencoder_config = self.config['training']['autoencoder']
+        autoencoder_config['lr'] = float(autoencoder_config['lr'])
+        autoencoder_config['weight_decay'] = float(autoencoder_config['weight_decay'])
+        autoencoder_config['scheduler_gamma'] = float(autoencoder_config['scheduler_gamma'])
+        
+        lgan_config = self.config['training']['lgan']
+        lgan_config['generator_lr'] = float(lgan_config['generator_lr'])
+        lgan_config['discriminator_lr'] = float(lgan_config['discriminator_lr'])
+        lgan_config['beta1'] = float(lgan_config['beta1'])
+        lgan_config['beta2'] = float(lgan_config['beta2'])
+        
+        joint_config = self.config['training']['joint']
+        joint_config['lr'] = float(joint_config['lr'])
+        joint_config['weight_decay'] = float(joint_config['weight_decay'])
+        
+        # Convert loss weights
+        loss_config = self.config['loss']
+        loss_config['w_chamfer'] = float(loss_config['w_chamfer'])
+        loss_config['w_gfv'] = float(loss_config['w_gfv'])
+        loss_config['w_discriminator'] = float(loss_config['w_discriminator'])
         
     def setup_directories(self):
         """Setup output directories."""
@@ -80,7 +113,17 @@ class RLGANNetTrainer:
     
     def setup_logging(self):
         """Setup tensorboard logging."""
-        self.writer = SummaryWriter(log_dir=self.log_dir)
+        use_tensorboard = self.config.get('logging', {}).get('use_tensorboard', True)
+        if use_tensorboard:
+            from torch.utils.tensorboard import SummaryWriter
+            self.writer = SummaryWriter(log_dir=self.log_dir)
+        else:
+            self.writer = None
+    
+    def log_scalar(self, name: str, value: float, step: int):
+        """Helper method to conditionally log to TensorBoard."""
+        if self.writer is not None:
+            self.writer.add_scalar(name, value, step)
         
     def setup_data(self):
         """Setup data loaders."""
@@ -157,9 +200,9 @@ class RLGANNetTrainer:
             scheduler.step()
             
             # Logging
-            self.writer.add_scalar('AE/Train_Loss', train_loss, epoch)
-            self.writer.add_scalar('AE/Val_Loss', val_loss, epoch)
-            self.writer.add_scalar('AE/Learning_Rate', optimizer.param_groups[0]['lr'], epoch)
+            self.log_scalar('AE/Train_Loss', train_loss, epoch)
+            self.log_scalar('AE/Val_Loss', val_loss, epoch)
+            self.log_scalar('AE/Learning_Rate', optimizer.param_groups[0]['lr'], epoch)
             
             print(f"Epoch {epoch+1}/{num_epochs} - Train Loss: {train_loss:.6f}, Val Loss: {val_loss:.6f}")
             
@@ -200,8 +243,8 @@ class RLGANNetTrainer:
             
             # Log batch metrics
             if batch_idx % 100 == 0:
-                self.writer.add_scalar('AE/Batch_Loss', loss.item(), 
-                                     self.epoch * len(self.train_loader) + batch_idx)
+                self.log_scalar('AE/Batch_Loss', loss.item(), 
+                               self.epoch * len(self.train_loader) + batch_idx)
         
         return total_loss / len(self.train_loader)
     
@@ -311,8 +354,8 @@ class RLGANNetTrainer:
             avg_d_loss = epoch_d_loss / (len(clean_gfvs) // batch_size)
             
             # Logging
-            self.writer.add_scalar('GAN/Generator_Loss', avg_g_loss, epoch)
-            self.writer.add_scalar('GAN/Discriminator_Loss', avg_d_loss, epoch)
+            self.log_scalar('GAN/Generator_Loss', avg_g_loss, epoch)
+            self.log_scalar('GAN/Discriminator_Loss', avg_d_loss, epoch)
             
             print(f"Epoch {epoch+1}/{num_epochs} - G Loss: {avg_g_loss:.6f}, D Loss: {avg_d_loss:.6f}")
             
@@ -376,10 +419,10 @@ class RLGANNetTrainer:
                     
                     # Log losses
                     if step % 5 == 0:
-                        self.writer.add_scalar('RL/Actor_Loss', actor_loss, 
-                                             episode * max_steps + step)
-                        self.writer.add_scalar('RL/Critic_Loss', critic_loss, 
-                                             episode * max_steps + step)
+                        self.log_scalar('RL/Actor_Loss', actor_loss, 
+                                       episode * max_steps + step)
+                        self.log_scalar('RL/Critic_Loss', critic_loss, 
+                                       episode * max_steps + step)
                 
                 state = next_state
                 episode_reward += reward
@@ -390,8 +433,8 @@ class RLGANNetTrainer:
             # Logging
             if episode % 10 == 0:
                 avg_reward = np.mean(episode_rewards[-10:])
-                self.writer.add_scalar('RL/Episode_Reward', episode_reward, episode)
-                self.writer.add_scalar('RL/Average_Reward', avg_reward, episode)
+                self.log_scalar('RL/Episode_Reward', episode_reward, episode)
+                self.log_scalar('RL/Average_Reward', avg_reward, episode)
                 
                 print(f"Episode {episode+1}/{num_episodes} - Reward: {episode_reward:.6f}, Avg: {avg_reward:.6f}")
                 
@@ -431,8 +474,8 @@ class RLGANNetTrainer:
             val_loss = self.validate_joint()
             
             # Logging
-            self.writer.add_scalar('Joint/Train_Loss', train_loss, epoch)
-            self.writer.add_scalar('Joint/Val_Loss', val_loss, epoch)
+            self.log_scalar('Joint/Train_Loss', train_loss, epoch)
+            self.log_scalar('Joint/Val_Loss', val_loss, epoch)
             
             print(f"Epoch {epoch+1}/{num_epochs} - Train Loss: {train_loss:.6f}, Val Loss: {val_loss:.6f}")
             
@@ -547,7 +590,8 @@ class RLGANNetTrainer:
     
     def close(self):
         """Clean up resources."""
-        self.writer.close()
+        if self.writer is not None:
+            self.writer.close()
 
 
 def parse_arguments():
