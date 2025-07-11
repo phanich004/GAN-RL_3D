@@ -12,30 +12,45 @@ import os
 from torch.utils.data import Dataset
 
 
-def normalize_point_cloud(pc: torch.Tensor) -> torch.Tensor:
+def normalize_point_cloud(pc):
     """
     Normalize point cloud to unit sphere centered at origin.
     
     Args:
-        pc: Point cloud tensor of shape (N, 3) or (B, N, 3)
+        pc: Point cloud (numpy array or torch tensor) of shape (N, 3) or (B, N, 3)
         
     Returns:
-        Normalized point cloud
+        Normalized point cloud (same type as input)
     """
-    if pc.dim() == 2:
+    is_numpy = isinstance(pc, np.ndarray)
+    
+    # Convert to torch if numpy
+    if is_numpy:
+        pc_tensor = torch.from_numpy(pc).float()
+    else:
+        pc_tensor = pc
+    
+    if pc_tensor.dim() == 2:
         # Single point cloud (N, 3)
-        centroid = torch.mean(pc, dim=0, keepdim=True)
-        pc_centered = pc - centroid
+        centroid = torch.mean(pc_tensor, dim=0, keepdim=True)
+        pc_centered = pc_tensor - centroid
         scale = torch.max(torch.norm(pc_centered, dim=1))
-        pc_normalized = pc_centered / scale
+        if scale > 0:
+            pc_normalized = pc_centered / scale
+        else:
+            pc_normalized = pc_centered
     else:
         # Batch of point clouds (B, N, 3)
-        centroid = torch.mean(pc, dim=1, keepdim=True)  # (B, 1, 3)
-        pc_centered = pc - centroid
+        centroid = torch.mean(pc_tensor, dim=1, keepdim=True)  # (B, 1, 3)
+        pc_centered = pc_tensor - centroid
         scale = torch.max(torch.norm(pc_centered, dim=2), dim=1, keepdim=True)[0].unsqueeze(-1)  # (B, 1, 1)
         pc_normalized = pc_centered / scale
     
-    return pc_normalized
+    # Convert back to numpy if input was numpy
+    if is_numpy:
+        return pc_normalized.numpy()
+    else:
+        return pc_normalized
 
 
 def center_point_cloud(pc: torch.Tensor) -> torch.Tensor:

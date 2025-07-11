@@ -1,0 +1,4002 @@
+[
+  {
+    "path": "data/shapenet/train/lamp/lamp_0007.txt",
+    "category": "lamp",
+    "model_id": "lamp_0007"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0013.txt",
+    "category": "lamp",
+    "model_id": "lamp_0013"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0012.txt",
+    "category": "lamp",
+    "model_id": "lamp_0012"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0006.txt",
+    "category": "lamp",
+    "model_id": "lamp_0006"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0038.txt",
+    "category": "lamp",
+    "model_id": "lamp_0038"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0010.txt",
+    "category": "lamp",
+    "model_id": "lamp_0010"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0004.txt",
+    "category": "lamp",
+    "model_id": "lamp_0004"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0005.txt",
+    "category": "lamp",
+    "model_id": "lamp_0005"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0011.txt",
+    "category": "lamp",
+    "model_id": "lamp_0011"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0039.txt",
+    "category": "lamp",
+    "model_id": "lamp_0039"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0015.txt",
+    "category": "lamp",
+    "model_id": "lamp_0015"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0001.txt",
+    "category": "lamp",
+    "model_id": "lamp_0001"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0029.txt",
+    "category": "lamp",
+    "model_id": "lamp_0029"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0028.txt",
+    "category": "lamp",
+    "model_id": "lamp_0028"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0000.txt",
+    "category": "lamp",
+    "model_id": "lamp_0000"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0014.txt",
+    "category": "lamp",
+    "model_id": "lamp_0014"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0002.txt",
+    "category": "lamp",
+    "model_id": "lamp_0002"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0016.txt",
+    "category": "lamp",
+    "model_id": "lamp_0016"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0017.txt",
+    "category": "lamp",
+    "model_id": "lamp_0017"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0003.txt",
+    "category": "lamp",
+    "model_id": "lamp_0003"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0058.txt",
+    "category": "lamp",
+    "model_id": "lamp_0058"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0064.txt",
+    "category": "lamp",
+    "model_id": "lamp_0064"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0070.txt",
+    "category": "lamp",
+    "model_id": "lamp_0070"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0071.txt",
+    "category": "lamp",
+    "model_id": "lamp_0071"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0065.txt",
+    "category": "lamp",
+    "model_id": "lamp_0065"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0059.txt",
+    "category": "lamp",
+    "model_id": "lamp_0059"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0098.txt",
+    "category": "lamp",
+    "model_id": "lamp_0098"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0073.txt",
+    "category": "lamp",
+    "model_id": "lamp_0073"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0067.txt",
+    "category": "lamp",
+    "model_id": "lamp_0067"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0066.txt",
+    "category": "lamp",
+    "model_id": "lamp_0066"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0072.txt",
+    "category": "lamp",
+    "model_id": "lamp_0072"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0099.txt",
+    "category": "lamp",
+    "model_id": "lamp_0099"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0089.txt",
+    "category": "lamp",
+    "model_id": "lamp_0089"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0076.txt",
+    "category": "lamp",
+    "model_id": "lamp_0076"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0062.txt",
+    "category": "lamp",
+    "model_id": "lamp_0062"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0063.txt",
+    "category": "lamp",
+    "model_id": "lamp_0063"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0077.txt",
+    "category": "lamp",
+    "model_id": "lamp_0077"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0088.txt",
+    "category": "lamp",
+    "model_id": "lamp_0088"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0061.txt",
+    "category": "lamp",
+    "model_id": "lamp_0061"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0075.txt",
+    "category": "lamp",
+    "model_id": "lamp_0075"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0049.txt",
+    "category": "lamp",
+    "model_id": "lamp_0049"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0048.txt",
+    "category": "lamp",
+    "model_id": "lamp_0048"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0074.txt",
+    "category": "lamp",
+    "model_id": "lamp_0074"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0060.txt",
+    "category": "lamp",
+    "model_id": "lamp_0060"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0086.txt",
+    "category": "lamp",
+    "model_id": "lamp_0086"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0092.txt",
+    "category": "lamp",
+    "model_id": "lamp_0092"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0079.txt",
+    "category": "lamp",
+    "model_id": "lamp_0079"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0045.txt",
+    "category": "lamp",
+    "model_id": "lamp_0045"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0051.txt",
+    "category": "lamp",
+    "model_id": "lamp_0051"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0050.txt",
+    "category": "lamp",
+    "model_id": "lamp_0050"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0044.txt",
+    "category": "lamp",
+    "model_id": "lamp_0044"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0078.txt",
+    "category": "lamp",
+    "model_id": "lamp_0078"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0093.txt",
+    "category": "lamp",
+    "model_id": "lamp_0093"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0087.txt",
+    "category": "lamp",
+    "model_id": "lamp_0087"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0091.txt",
+    "category": "lamp",
+    "model_id": "lamp_0091"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0085.txt",
+    "category": "lamp",
+    "model_id": "lamp_0085"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0052.txt",
+    "category": "lamp",
+    "model_id": "lamp_0052"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0046.txt",
+    "category": "lamp",
+    "model_id": "lamp_0046"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0047.txt",
+    "category": "lamp",
+    "model_id": "lamp_0047"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0053.txt",
+    "category": "lamp",
+    "model_id": "lamp_0053"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0084.txt",
+    "category": "lamp",
+    "model_id": "lamp_0084"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0090.txt",
+    "category": "lamp",
+    "model_id": "lamp_0090"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0094.txt",
+    "category": "lamp",
+    "model_id": "lamp_0094"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0080.txt",
+    "category": "lamp",
+    "model_id": "lamp_0080"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0057.txt",
+    "category": "lamp",
+    "model_id": "lamp_0057"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0043.txt",
+    "category": "lamp",
+    "model_id": "lamp_0043"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0042.txt",
+    "category": "lamp",
+    "model_id": "lamp_0042"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0056.txt",
+    "category": "lamp",
+    "model_id": "lamp_0056"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0081.txt",
+    "category": "lamp",
+    "model_id": "lamp_0081"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0095.txt",
+    "category": "lamp",
+    "model_id": "lamp_0095"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0083.txt",
+    "category": "lamp",
+    "model_id": "lamp_0083"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0097.txt",
+    "category": "lamp",
+    "model_id": "lamp_0097"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0040.txt",
+    "category": "lamp",
+    "model_id": "lamp_0040"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0054.txt",
+    "category": "lamp",
+    "model_id": "lamp_0054"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0068.txt",
+    "category": "lamp",
+    "model_id": "lamp_0068"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0069.txt",
+    "category": "lamp",
+    "model_id": "lamp_0069"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0055.txt",
+    "category": "lamp",
+    "model_id": "lamp_0055"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0041.txt",
+    "category": "lamp",
+    "model_id": "lamp_0041"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0096.txt",
+    "category": "lamp",
+    "model_id": "lamp_0096"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0082.txt",
+    "category": "lamp",
+    "model_id": "lamp_0082"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0026.txt",
+    "category": "lamp",
+    "model_id": "lamp_0026"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0032.txt",
+    "category": "lamp",
+    "model_id": "lamp_0032"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0033.txt",
+    "category": "lamp",
+    "model_id": "lamp_0033"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0027.txt",
+    "category": "lamp",
+    "model_id": "lamp_0027"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0019.txt",
+    "category": "lamp",
+    "model_id": "lamp_0019"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0031.txt",
+    "category": "lamp",
+    "model_id": "lamp_0031"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0025.txt",
+    "category": "lamp",
+    "model_id": "lamp_0025"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0024.txt",
+    "category": "lamp",
+    "model_id": "lamp_0024"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0030.txt",
+    "category": "lamp",
+    "model_id": "lamp_0030"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0018.txt",
+    "category": "lamp",
+    "model_id": "lamp_0018"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0034.txt",
+    "category": "lamp",
+    "model_id": "lamp_0034"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0020.txt",
+    "category": "lamp",
+    "model_id": "lamp_0020"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0008.txt",
+    "category": "lamp",
+    "model_id": "lamp_0008"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0009.txt",
+    "category": "lamp",
+    "model_id": "lamp_0009"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0021.txt",
+    "category": "lamp",
+    "model_id": "lamp_0021"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0035.txt",
+    "category": "lamp",
+    "model_id": "lamp_0035"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0023.txt",
+    "category": "lamp",
+    "model_id": "lamp_0023"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0037.txt",
+    "category": "lamp",
+    "model_id": "lamp_0037"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0036.txt",
+    "category": "lamp",
+    "model_id": "lamp_0036"
+  },
+  {
+    "path": "data/shapenet/train/lamp/lamp_0022.txt",
+    "category": "lamp",
+    "model_id": "lamp_0022"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0049.txt",
+    "category": "car",
+    "model_id": "car_0049"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0061.txt",
+    "category": "car",
+    "model_id": "car_0061"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0075.txt",
+    "category": "car",
+    "model_id": "car_0075"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0074.txt",
+    "category": "car",
+    "model_id": "car_0074"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0060.txt",
+    "category": "car",
+    "model_id": "car_0060"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0048.txt",
+    "category": "car",
+    "model_id": "car_0048"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0089.txt",
+    "category": "car",
+    "model_id": "car_0089"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0076.txt",
+    "category": "car",
+    "model_id": "car_0076"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0062.txt",
+    "category": "car",
+    "model_id": "car_0062"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0063.txt",
+    "category": "car",
+    "model_id": "car_0063"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0077.txt",
+    "category": "car",
+    "model_id": "car_0077"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0088.txt",
+    "category": "car",
+    "model_id": "car_0088"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0098.txt",
+    "category": "car",
+    "model_id": "car_0098"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0073.txt",
+    "category": "car",
+    "model_id": "car_0073"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0067.txt",
+    "category": "car",
+    "model_id": "car_0067"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0066.txt",
+    "category": "car",
+    "model_id": "car_0066"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0072.txt",
+    "category": "car",
+    "model_id": "car_0072"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0099.txt",
+    "category": "car",
+    "model_id": "car_0099"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0064.txt",
+    "category": "car",
+    "model_id": "car_0064"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0070.txt",
+    "category": "car",
+    "model_id": "car_0070"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0058.txt",
+    "category": "car",
+    "model_id": "car_0058"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0059.txt",
+    "category": "car",
+    "model_id": "car_0059"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0071.txt",
+    "category": "car",
+    "model_id": "car_0071"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0065.txt",
+    "category": "car",
+    "model_id": "car_0065"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0002.txt",
+    "category": "car",
+    "model_id": "car_0002"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0016.txt",
+    "category": "car",
+    "model_id": "car_0016"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0017.txt",
+    "category": "car",
+    "model_id": "car_0017"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0003.txt",
+    "category": "car",
+    "model_id": "car_0003"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0029.txt",
+    "category": "car",
+    "model_id": "car_0029"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0015.txt",
+    "category": "car",
+    "model_id": "car_0015"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0001.txt",
+    "category": "car",
+    "model_id": "car_0001"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0000.txt",
+    "category": "car",
+    "model_id": "car_0000"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0014.txt",
+    "category": "car",
+    "model_id": "car_0014"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0028.txt",
+    "category": "car",
+    "model_id": "car_0028"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0010.txt",
+    "category": "car",
+    "model_id": "car_0010"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0004.txt",
+    "category": "car",
+    "model_id": "car_0004"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0038.txt",
+    "category": "car",
+    "model_id": "car_0038"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0039.txt",
+    "category": "car",
+    "model_id": "car_0039"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0005.txt",
+    "category": "car",
+    "model_id": "car_0005"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0011.txt",
+    "category": "car",
+    "model_id": "car_0011"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0007.txt",
+    "category": "car",
+    "model_id": "car_0007"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0013.txt",
+    "category": "car",
+    "model_id": "car_0013"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0012.txt",
+    "category": "car",
+    "model_id": "car_0012"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0006.txt",
+    "category": "car",
+    "model_id": "car_0006"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0023.txt",
+    "category": "car",
+    "model_id": "car_0023"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0037.txt",
+    "category": "car",
+    "model_id": "car_0037"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0036.txt",
+    "category": "car",
+    "model_id": "car_0036"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0022.txt",
+    "category": "car",
+    "model_id": "car_0022"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0008.txt",
+    "category": "car",
+    "model_id": "car_0008"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0034.txt",
+    "category": "car",
+    "model_id": "car_0034"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0020.txt",
+    "category": "car",
+    "model_id": "car_0020"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0021.txt",
+    "category": "car",
+    "model_id": "car_0021"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0035.txt",
+    "category": "car",
+    "model_id": "car_0035"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0009.txt",
+    "category": "car",
+    "model_id": "car_0009"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0031.txt",
+    "category": "car",
+    "model_id": "car_0031"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0025.txt",
+    "category": "car",
+    "model_id": "car_0025"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0019.txt",
+    "category": "car",
+    "model_id": "car_0019"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0018.txt",
+    "category": "car",
+    "model_id": "car_0018"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0024.txt",
+    "category": "car",
+    "model_id": "car_0024"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0030.txt",
+    "category": "car",
+    "model_id": "car_0030"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0026.txt",
+    "category": "car",
+    "model_id": "car_0026"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0032.txt",
+    "category": "car",
+    "model_id": "car_0032"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0033.txt",
+    "category": "car",
+    "model_id": "car_0033"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0027.txt",
+    "category": "car",
+    "model_id": "car_0027"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0083.txt",
+    "category": "car",
+    "model_id": "car_0083"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0097.txt",
+    "category": "car",
+    "model_id": "car_0097"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0068.txt",
+    "category": "car",
+    "model_id": "car_0068"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0040.txt",
+    "category": "car",
+    "model_id": "car_0040"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0054.txt",
+    "category": "car",
+    "model_id": "car_0054"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0055.txt",
+    "category": "car",
+    "model_id": "car_0055"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0041.txt",
+    "category": "car",
+    "model_id": "car_0041"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0069.txt",
+    "category": "car",
+    "model_id": "car_0069"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0096.txt",
+    "category": "car",
+    "model_id": "car_0096"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0082.txt",
+    "category": "car",
+    "model_id": "car_0082"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0094.txt",
+    "category": "car",
+    "model_id": "car_0094"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0080.txt",
+    "category": "car",
+    "model_id": "car_0080"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0057.txt",
+    "category": "car",
+    "model_id": "car_0057"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0043.txt",
+    "category": "car",
+    "model_id": "car_0043"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0042.txt",
+    "category": "car",
+    "model_id": "car_0042"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0056.txt",
+    "category": "car",
+    "model_id": "car_0056"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0081.txt",
+    "category": "car",
+    "model_id": "car_0081"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0095.txt",
+    "category": "car",
+    "model_id": "car_0095"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0091.txt",
+    "category": "car",
+    "model_id": "car_0091"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0085.txt",
+    "category": "car",
+    "model_id": "car_0085"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0052.txt",
+    "category": "car",
+    "model_id": "car_0052"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0046.txt",
+    "category": "car",
+    "model_id": "car_0046"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0047.txt",
+    "category": "car",
+    "model_id": "car_0047"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0053.txt",
+    "category": "car",
+    "model_id": "car_0053"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0084.txt",
+    "category": "car",
+    "model_id": "car_0084"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0090.txt",
+    "category": "car",
+    "model_id": "car_0090"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0086.txt",
+    "category": "car",
+    "model_id": "car_0086"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0092.txt",
+    "category": "car",
+    "model_id": "car_0092"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0045.txt",
+    "category": "car",
+    "model_id": "car_0045"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0051.txt",
+    "category": "car",
+    "model_id": "car_0051"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0079.txt",
+    "category": "car",
+    "model_id": "car_0079"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0078.txt",
+    "category": "car",
+    "model_id": "car_0078"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0050.txt",
+    "category": "car",
+    "model_id": "car_0050"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0044.txt",
+    "category": "car",
+    "model_id": "car_0044"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0093.txt",
+    "category": "car",
+    "model_id": "car_0093"
+  },
+  {
+    "path": "data/shapenet/train/car/car_0087.txt",
+    "category": "car",
+    "model_id": "car_0087"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0012.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0012"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0006.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0006"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0007.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0007"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0013.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0013"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0039.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0039"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0005.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0005"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0011.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0011"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0010.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0010"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0004.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0004"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0038.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0038"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0000.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0000"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0014.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0014"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0028.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0028"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0029.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0029"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0015.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0015"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0001.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0001"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0017.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0017"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0003.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0003"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0002.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0002"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0016.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0016"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0059.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0059"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0071.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0071"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0065.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0065"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0064.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0064"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0070.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0070"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0058.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0058"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0066.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0066"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0072.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0072"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0099.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0099"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0098.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0098"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0073.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0073"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0067.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0067"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0063.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0063"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0077.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0077"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0088.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0088"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0089.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0089"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0076.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0076"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0062.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0062"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0074.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0074"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0060.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0060"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0048.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0048"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0049.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0049"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0061.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0061"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0075.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0075"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0078.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0078"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0050.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0050"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0044.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0044"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0093.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0093"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0087.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0087"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0086.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0086"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0092.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0092"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0045.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0045"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0051.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0051"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0079.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0079"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0047.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0047"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0053.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0053"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0084.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0084"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0090.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0090"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0091.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0091"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0085.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0085"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0052.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0052"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0046.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0046"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0042.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0042"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0056.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0056"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0081.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0081"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0095.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0095"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0094.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0094"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0080.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0080"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0057.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0057"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0043.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0043"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0055.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0055"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0041.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0041"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0069.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0069"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0096.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0096"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0082.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0082"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0083.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0083"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0097.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0097"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0068.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0068"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0040.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0040"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0054.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0054"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0033.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0033"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0027.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0027"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0026.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0026"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0032.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0032"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0018.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0018"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0024.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0024"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0030.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0030"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0031.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0031"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0025.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0025"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0019.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0019"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0021.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0021"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0035.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0035"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0009.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0009"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0008.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0008"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0034.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0034"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0020.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0020"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0036.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0036"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0022.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0022"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0023.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0023"
+  },
+  {
+    "path": "data/shapenet/train/cabinet/cabinet_0037.txt",
+    "category": "cabinet",
+    "model_id": "cabinet_0037"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0051.txt",
+    "category": "chair",
+    "model_id": "chair_0051"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0045.txt",
+    "category": "chair",
+    "model_id": "chair_0045"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0079.txt",
+    "category": "chair",
+    "model_id": "chair_0079"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0092.txt",
+    "category": "chair",
+    "model_id": "chair_0092"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0086.txt",
+    "category": "chair",
+    "model_id": "chair_0086"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0087.txt",
+    "category": "chair",
+    "model_id": "chair_0087"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0093.txt",
+    "category": "chair",
+    "model_id": "chair_0093"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0078.txt",
+    "category": "chair",
+    "model_id": "chair_0078"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0044.txt",
+    "category": "chair",
+    "model_id": "chair_0044"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0050.txt",
+    "category": "chair",
+    "model_id": "chair_0050"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0046.txt",
+    "category": "chair",
+    "model_id": "chair_0046"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0052.txt",
+    "category": "chair",
+    "model_id": "chair_0052"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0085.txt",
+    "category": "chair",
+    "model_id": "chair_0085"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0091.txt",
+    "category": "chair",
+    "model_id": "chair_0091"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0090.txt",
+    "category": "chair",
+    "model_id": "chair_0090"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0084.txt",
+    "category": "chair",
+    "model_id": "chair_0084"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0053.txt",
+    "category": "chair",
+    "model_id": "chair_0053"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0047.txt",
+    "category": "chair",
+    "model_id": "chair_0047"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0043.txt",
+    "category": "chair",
+    "model_id": "chair_0043"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0057.txt",
+    "category": "chair",
+    "model_id": "chair_0057"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0080.txt",
+    "category": "chair",
+    "model_id": "chair_0080"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0094.txt",
+    "category": "chair",
+    "model_id": "chair_0094"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0095.txt",
+    "category": "chair",
+    "model_id": "chair_0095"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0081.txt",
+    "category": "chair",
+    "model_id": "chair_0081"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0056.txt",
+    "category": "chair",
+    "model_id": "chair_0056"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0042.txt",
+    "category": "chair",
+    "model_id": "chair_0042"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0068.txt",
+    "category": "chair",
+    "model_id": "chair_0068"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0054.txt",
+    "category": "chair",
+    "model_id": "chair_0054"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0040.txt",
+    "category": "chair",
+    "model_id": "chair_0040"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0097.txt",
+    "category": "chair",
+    "model_id": "chair_0097"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0083.txt",
+    "category": "chair",
+    "model_id": "chair_0083"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0082.txt",
+    "category": "chair",
+    "model_id": "chair_0082"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0096.txt",
+    "category": "chair",
+    "model_id": "chair_0096"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0041.txt",
+    "category": "chair",
+    "model_id": "chair_0041"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0055.txt",
+    "category": "chair",
+    "model_id": "chair_0055"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0069.txt",
+    "category": "chair",
+    "model_id": "chair_0069"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0032.txt",
+    "category": "chair",
+    "model_id": "chair_0032"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0026.txt",
+    "category": "chair",
+    "model_id": "chair_0026"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0027.txt",
+    "category": "chair",
+    "model_id": "chair_0027"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0033.txt",
+    "category": "chair",
+    "model_id": "chair_0033"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0025.txt",
+    "category": "chair",
+    "model_id": "chair_0025"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0031.txt",
+    "category": "chair",
+    "model_id": "chair_0031"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0019.txt",
+    "category": "chair",
+    "model_id": "chair_0019"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0018.txt",
+    "category": "chair",
+    "model_id": "chair_0018"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0030.txt",
+    "category": "chair",
+    "model_id": "chair_0030"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0024.txt",
+    "category": "chair",
+    "model_id": "chair_0024"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0008.txt",
+    "category": "chair",
+    "model_id": "chair_0008"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0020.txt",
+    "category": "chair",
+    "model_id": "chair_0020"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0034.txt",
+    "category": "chair",
+    "model_id": "chair_0034"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0035.txt",
+    "category": "chair",
+    "model_id": "chair_0035"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0021.txt",
+    "category": "chair",
+    "model_id": "chair_0021"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0009.txt",
+    "category": "chair",
+    "model_id": "chair_0009"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0037.txt",
+    "category": "chair",
+    "model_id": "chair_0037"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0023.txt",
+    "category": "chair",
+    "model_id": "chair_0023"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0022.txt",
+    "category": "chair",
+    "model_id": "chair_0022"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0036.txt",
+    "category": "chair",
+    "model_id": "chair_0036"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0013.txt",
+    "category": "chair",
+    "model_id": "chair_0013"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0007.txt",
+    "category": "chair",
+    "model_id": "chair_0007"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0006.txt",
+    "category": "chair",
+    "model_id": "chair_0006"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0012.txt",
+    "category": "chair",
+    "model_id": "chair_0012"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0004.txt",
+    "category": "chair",
+    "model_id": "chair_0004"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0010.txt",
+    "category": "chair",
+    "model_id": "chair_0010"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0038.txt",
+    "category": "chair",
+    "model_id": "chair_0038"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0039.txt",
+    "category": "chair",
+    "model_id": "chair_0039"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0011.txt",
+    "category": "chair",
+    "model_id": "chair_0011"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0005.txt",
+    "category": "chair",
+    "model_id": "chair_0005"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0029.txt",
+    "category": "chair",
+    "model_id": "chair_0029"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0001.txt",
+    "category": "chair",
+    "model_id": "chair_0001"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0015.txt",
+    "category": "chair",
+    "model_id": "chair_0015"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0014.txt",
+    "category": "chair",
+    "model_id": "chair_0014"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0000.txt",
+    "category": "chair",
+    "model_id": "chair_0000"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0028.txt",
+    "category": "chair",
+    "model_id": "chair_0028"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0016.txt",
+    "category": "chair",
+    "model_id": "chair_0016"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0002.txt",
+    "category": "chair",
+    "model_id": "chair_0002"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0003.txt",
+    "category": "chair",
+    "model_id": "chair_0003"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0017.txt",
+    "category": "chair",
+    "model_id": "chair_0017"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0070.txt",
+    "category": "chair",
+    "model_id": "chair_0070"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0064.txt",
+    "category": "chair",
+    "model_id": "chair_0064"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0058.txt",
+    "category": "chair",
+    "model_id": "chair_0058"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0059.txt",
+    "category": "chair",
+    "model_id": "chair_0059"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0065.txt",
+    "category": "chair",
+    "model_id": "chair_0065"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0071.txt",
+    "category": "chair",
+    "model_id": "chair_0071"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0067.txt",
+    "category": "chair",
+    "model_id": "chair_0067"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0073.txt",
+    "category": "chair",
+    "model_id": "chair_0073"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0098.txt",
+    "category": "chair",
+    "model_id": "chair_0098"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0099.txt",
+    "category": "chair",
+    "model_id": "chair_0099"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0072.txt",
+    "category": "chair",
+    "model_id": "chair_0072"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0066.txt",
+    "category": "chair",
+    "model_id": "chair_0066"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0062.txt",
+    "category": "chair",
+    "model_id": "chair_0062"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0076.txt",
+    "category": "chair",
+    "model_id": "chair_0076"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0089.txt",
+    "category": "chair",
+    "model_id": "chair_0089"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0088.txt",
+    "category": "chair",
+    "model_id": "chair_0088"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0077.txt",
+    "category": "chair",
+    "model_id": "chair_0077"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0063.txt",
+    "category": "chair",
+    "model_id": "chair_0063"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0049.txt",
+    "category": "chair",
+    "model_id": "chair_0049"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0075.txt",
+    "category": "chair",
+    "model_id": "chair_0075"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0061.txt",
+    "category": "chair",
+    "model_id": "chair_0061"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0060.txt",
+    "category": "chair",
+    "model_id": "chair_0060"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0074.txt",
+    "category": "chair",
+    "model_id": "chair_0074"
+  },
+  {
+    "path": "data/shapenet/train/chair/chair_0048.txt",
+    "category": "chair",
+    "model_id": "chair_0048"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0002.txt",
+    "category": "sofa",
+    "model_id": "sofa_0002"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0016.txt",
+    "category": "sofa",
+    "model_id": "sofa_0016"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0017.txt",
+    "category": "sofa",
+    "model_id": "sofa_0017"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0003.txt",
+    "category": "sofa",
+    "model_id": "sofa_0003"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0029.txt",
+    "category": "sofa",
+    "model_id": "sofa_0029"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0015.txt",
+    "category": "sofa",
+    "model_id": "sofa_0015"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0001.txt",
+    "category": "sofa",
+    "model_id": "sofa_0001"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0000.txt",
+    "category": "sofa",
+    "model_id": "sofa_0000"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0014.txt",
+    "category": "sofa",
+    "model_id": "sofa_0014"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0028.txt",
+    "category": "sofa",
+    "model_id": "sofa_0028"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0010.txt",
+    "category": "sofa",
+    "model_id": "sofa_0010"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0004.txt",
+    "category": "sofa",
+    "model_id": "sofa_0004"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0038.txt",
+    "category": "sofa",
+    "model_id": "sofa_0038"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0039.txt",
+    "category": "sofa",
+    "model_id": "sofa_0039"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0005.txt",
+    "category": "sofa",
+    "model_id": "sofa_0005"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0011.txt",
+    "category": "sofa",
+    "model_id": "sofa_0011"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0007.txt",
+    "category": "sofa",
+    "model_id": "sofa_0007"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0013.txt",
+    "category": "sofa",
+    "model_id": "sofa_0013"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0012.txt",
+    "category": "sofa",
+    "model_id": "sofa_0012"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0006.txt",
+    "category": "sofa",
+    "model_id": "sofa_0006"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0049.txt",
+    "category": "sofa",
+    "model_id": "sofa_0049"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0061.txt",
+    "category": "sofa",
+    "model_id": "sofa_0061"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0075.txt",
+    "category": "sofa",
+    "model_id": "sofa_0075"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0074.txt",
+    "category": "sofa",
+    "model_id": "sofa_0074"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0060.txt",
+    "category": "sofa",
+    "model_id": "sofa_0060"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0048.txt",
+    "category": "sofa",
+    "model_id": "sofa_0048"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0076.txt",
+    "category": "sofa",
+    "model_id": "sofa_0076"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0062.txt",
+    "category": "sofa",
+    "model_id": "sofa_0062"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0089.txt",
+    "category": "sofa",
+    "model_id": "sofa_0089"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0088.txt",
+    "category": "sofa",
+    "model_id": "sofa_0088"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0063.txt",
+    "category": "sofa",
+    "model_id": "sofa_0063"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0077.txt",
+    "category": "sofa",
+    "model_id": "sofa_0077"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0073.txt",
+    "category": "sofa",
+    "model_id": "sofa_0073"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0067.txt",
+    "category": "sofa",
+    "model_id": "sofa_0067"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0098.txt",
+    "category": "sofa",
+    "model_id": "sofa_0098"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0099.txt",
+    "category": "sofa",
+    "model_id": "sofa_0099"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0066.txt",
+    "category": "sofa",
+    "model_id": "sofa_0066"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0072.txt",
+    "category": "sofa",
+    "model_id": "sofa_0072"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0064.txt",
+    "category": "sofa",
+    "model_id": "sofa_0064"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0070.txt",
+    "category": "sofa",
+    "model_id": "sofa_0070"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0058.txt",
+    "category": "sofa",
+    "model_id": "sofa_0058"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0059.txt",
+    "category": "sofa",
+    "model_id": "sofa_0059"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0071.txt",
+    "category": "sofa",
+    "model_id": "sofa_0071"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0065.txt",
+    "category": "sofa",
+    "model_id": "sofa_0065"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0068.txt",
+    "category": "sofa",
+    "model_id": "sofa_0068"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0040.txt",
+    "category": "sofa",
+    "model_id": "sofa_0040"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0054.txt",
+    "category": "sofa",
+    "model_id": "sofa_0054"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0083.txt",
+    "category": "sofa",
+    "model_id": "sofa_0083"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0097.txt",
+    "category": "sofa",
+    "model_id": "sofa_0097"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0096.txt",
+    "category": "sofa",
+    "model_id": "sofa_0096"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0082.txt",
+    "category": "sofa",
+    "model_id": "sofa_0082"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0055.txt",
+    "category": "sofa",
+    "model_id": "sofa_0055"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0041.txt",
+    "category": "sofa",
+    "model_id": "sofa_0041"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0069.txt",
+    "category": "sofa",
+    "model_id": "sofa_0069"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0057.txt",
+    "category": "sofa",
+    "model_id": "sofa_0057"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0043.txt",
+    "category": "sofa",
+    "model_id": "sofa_0043"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0094.txt",
+    "category": "sofa",
+    "model_id": "sofa_0094"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0080.txt",
+    "category": "sofa",
+    "model_id": "sofa_0080"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0081.txt",
+    "category": "sofa",
+    "model_id": "sofa_0081"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0095.txt",
+    "category": "sofa",
+    "model_id": "sofa_0095"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0042.txt",
+    "category": "sofa",
+    "model_id": "sofa_0042"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0056.txt",
+    "category": "sofa",
+    "model_id": "sofa_0056"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0052.txt",
+    "category": "sofa",
+    "model_id": "sofa_0052"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0046.txt",
+    "category": "sofa",
+    "model_id": "sofa_0046"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0091.txt",
+    "category": "sofa",
+    "model_id": "sofa_0091"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0085.txt",
+    "category": "sofa",
+    "model_id": "sofa_0085"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0084.txt",
+    "category": "sofa",
+    "model_id": "sofa_0084"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0090.txt",
+    "category": "sofa",
+    "model_id": "sofa_0090"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0047.txt",
+    "category": "sofa",
+    "model_id": "sofa_0047"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0053.txt",
+    "category": "sofa",
+    "model_id": "sofa_0053"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0045.txt",
+    "category": "sofa",
+    "model_id": "sofa_0045"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0051.txt",
+    "category": "sofa",
+    "model_id": "sofa_0051"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0079.txt",
+    "category": "sofa",
+    "model_id": "sofa_0079"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0086.txt",
+    "category": "sofa",
+    "model_id": "sofa_0086"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0092.txt",
+    "category": "sofa",
+    "model_id": "sofa_0092"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0093.txt",
+    "category": "sofa",
+    "model_id": "sofa_0093"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0087.txt",
+    "category": "sofa",
+    "model_id": "sofa_0087"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0078.txt",
+    "category": "sofa",
+    "model_id": "sofa_0078"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0050.txt",
+    "category": "sofa",
+    "model_id": "sofa_0050"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0044.txt",
+    "category": "sofa",
+    "model_id": "sofa_0044"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0023.txt",
+    "category": "sofa",
+    "model_id": "sofa_0023"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0037.txt",
+    "category": "sofa",
+    "model_id": "sofa_0037"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0036.txt",
+    "category": "sofa",
+    "model_id": "sofa_0036"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0022.txt",
+    "category": "sofa",
+    "model_id": "sofa_0022"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0008.txt",
+    "category": "sofa",
+    "model_id": "sofa_0008"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0034.txt",
+    "category": "sofa",
+    "model_id": "sofa_0034"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0020.txt",
+    "category": "sofa",
+    "model_id": "sofa_0020"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0021.txt",
+    "category": "sofa",
+    "model_id": "sofa_0021"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0035.txt",
+    "category": "sofa",
+    "model_id": "sofa_0035"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0009.txt",
+    "category": "sofa",
+    "model_id": "sofa_0009"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0031.txt",
+    "category": "sofa",
+    "model_id": "sofa_0031"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0025.txt",
+    "category": "sofa",
+    "model_id": "sofa_0025"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0019.txt",
+    "category": "sofa",
+    "model_id": "sofa_0019"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0018.txt",
+    "category": "sofa",
+    "model_id": "sofa_0018"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0024.txt",
+    "category": "sofa",
+    "model_id": "sofa_0024"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0030.txt",
+    "category": "sofa",
+    "model_id": "sofa_0030"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0026.txt",
+    "category": "sofa",
+    "model_id": "sofa_0026"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0032.txt",
+    "category": "sofa",
+    "model_id": "sofa_0032"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0033.txt",
+    "category": "sofa",
+    "model_id": "sofa_0033"
+  },
+  {
+    "path": "data/shapenet/train/sofa/sofa_0027.txt",
+    "category": "sofa",
+    "model_id": "sofa_0027"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0078.txt",
+    "category": "table",
+    "model_id": "table_0078"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0044.txt",
+    "category": "table",
+    "model_id": "table_0044"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0050.txt",
+    "category": "table",
+    "model_id": "table_0050"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0087.txt",
+    "category": "table",
+    "model_id": "table_0087"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0093.txt",
+    "category": "table",
+    "model_id": "table_0093"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0092.txt",
+    "category": "table",
+    "model_id": "table_0092"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0086.txt",
+    "category": "table",
+    "model_id": "table_0086"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0051.txt",
+    "category": "table",
+    "model_id": "table_0051"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0045.txt",
+    "category": "table",
+    "model_id": "table_0045"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0079.txt",
+    "category": "table",
+    "model_id": "table_0079"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0053.txt",
+    "category": "table",
+    "model_id": "table_0053"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0047.txt",
+    "category": "table",
+    "model_id": "table_0047"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0090.txt",
+    "category": "table",
+    "model_id": "table_0090"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0084.txt",
+    "category": "table",
+    "model_id": "table_0084"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0085.txt",
+    "category": "table",
+    "model_id": "table_0085"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0091.txt",
+    "category": "table",
+    "model_id": "table_0091"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0046.txt",
+    "category": "table",
+    "model_id": "table_0046"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0052.txt",
+    "category": "table",
+    "model_id": "table_0052"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0056.txt",
+    "category": "table",
+    "model_id": "table_0056"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0042.txt",
+    "category": "table",
+    "model_id": "table_0042"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0095.txt",
+    "category": "table",
+    "model_id": "table_0095"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0081.txt",
+    "category": "table",
+    "model_id": "table_0081"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0080.txt",
+    "category": "table",
+    "model_id": "table_0080"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0094.txt",
+    "category": "table",
+    "model_id": "table_0094"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0043.txt",
+    "category": "table",
+    "model_id": "table_0043"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0057.txt",
+    "category": "table",
+    "model_id": "table_0057"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0041.txt",
+    "category": "table",
+    "model_id": "table_0041"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0055.txt",
+    "category": "table",
+    "model_id": "table_0055"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0069.txt",
+    "category": "table",
+    "model_id": "table_0069"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0082.txt",
+    "category": "table",
+    "model_id": "table_0082"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0096.txt",
+    "category": "table",
+    "model_id": "table_0096"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0097.txt",
+    "category": "table",
+    "model_id": "table_0097"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0083.txt",
+    "category": "table",
+    "model_id": "table_0083"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0068.txt",
+    "category": "table",
+    "model_id": "table_0068"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0054.txt",
+    "category": "table",
+    "model_id": "table_0054"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0040.txt",
+    "category": "table",
+    "model_id": "table_0040"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0027.txt",
+    "category": "table",
+    "model_id": "table_0027"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0033.txt",
+    "category": "table",
+    "model_id": "table_0033"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0032.txt",
+    "category": "table",
+    "model_id": "table_0032"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0026.txt",
+    "category": "table",
+    "model_id": "table_0026"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0018.txt",
+    "category": "table",
+    "model_id": "table_0018"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0030.txt",
+    "category": "table",
+    "model_id": "table_0030"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0024.txt",
+    "category": "table",
+    "model_id": "table_0024"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0025.txt",
+    "category": "table",
+    "model_id": "table_0025"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0031.txt",
+    "category": "table",
+    "model_id": "table_0031"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0019.txt",
+    "category": "table",
+    "model_id": "table_0019"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0035.txt",
+    "category": "table",
+    "model_id": "table_0035"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0021.txt",
+    "category": "table",
+    "model_id": "table_0021"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0009.txt",
+    "category": "table",
+    "model_id": "table_0009"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0008.txt",
+    "category": "table",
+    "model_id": "table_0008"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0020.txt",
+    "category": "table",
+    "model_id": "table_0020"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0034.txt",
+    "category": "table",
+    "model_id": "table_0034"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0022.txt",
+    "category": "table",
+    "model_id": "table_0022"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0036.txt",
+    "category": "table",
+    "model_id": "table_0036"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0037.txt",
+    "category": "table",
+    "model_id": "table_0037"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0023.txt",
+    "category": "table",
+    "model_id": "table_0023"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0006.txt",
+    "category": "table",
+    "model_id": "table_0006"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0012.txt",
+    "category": "table",
+    "model_id": "table_0012"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0013.txt",
+    "category": "table",
+    "model_id": "table_0013"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0007.txt",
+    "category": "table",
+    "model_id": "table_0007"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0039.txt",
+    "category": "table",
+    "model_id": "table_0039"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0011.txt",
+    "category": "table",
+    "model_id": "table_0011"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0005.txt",
+    "category": "table",
+    "model_id": "table_0005"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0004.txt",
+    "category": "table",
+    "model_id": "table_0004"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0010.txt",
+    "category": "table",
+    "model_id": "table_0010"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0038.txt",
+    "category": "table",
+    "model_id": "table_0038"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0014.txt",
+    "category": "table",
+    "model_id": "table_0014"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0000.txt",
+    "category": "table",
+    "model_id": "table_0000"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0028.txt",
+    "category": "table",
+    "model_id": "table_0028"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0029.txt",
+    "category": "table",
+    "model_id": "table_0029"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0001.txt",
+    "category": "table",
+    "model_id": "table_0001"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0015.txt",
+    "category": "table",
+    "model_id": "table_0015"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0003.txt",
+    "category": "table",
+    "model_id": "table_0003"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0017.txt",
+    "category": "table",
+    "model_id": "table_0017"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0016.txt",
+    "category": "table",
+    "model_id": "table_0016"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0002.txt",
+    "category": "table",
+    "model_id": "table_0002"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0059.txt",
+    "category": "table",
+    "model_id": "table_0059"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0065.txt",
+    "category": "table",
+    "model_id": "table_0065"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0071.txt",
+    "category": "table",
+    "model_id": "table_0071"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0070.txt",
+    "category": "table",
+    "model_id": "table_0070"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0064.txt",
+    "category": "table",
+    "model_id": "table_0064"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0058.txt",
+    "category": "table",
+    "model_id": "table_0058"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0072.txt",
+    "category": "table",
+    "model_id": "table_0072"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0066.txt",
+    "category": "table",
+    "model_id": "table_0066"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0099.txt",
+    "category": "table",
+    "model_id": "table_0099"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0098.txt",
+    "category": "table",
+    "model_id": "table_0098"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0067.txt",
+    "category": "table",
+    "model_id": "table_0067"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0073.txt",
+    "category": "table",
+    "model_id": "table_0073"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0077.txt",
+    "category": "table",
+    "model_id": "table_0077"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0063.txt",
+    "category": "table",
+    "model_id": "table_0063"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0088.txt",
+    "category": "table",
+    "model_id": "table_0088"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0089.txt",
+    "category": "table",
+    "model_id": "table_0089"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0062.txt",
+    "category": "table",
+    "model_id": "table_0062"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0076.txt",
+    "category": "table",
+    "model_id": "table_0076"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0060.txt",
+    "category": "table",
+    "model_id": "table_0060"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0074.txt",
+    "category": "table",
+    "model_id": "table_0074"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0048.txt",
+    "category": "table",
+    "model_id": "table_0048"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0049.txt",
+    "category": "table",
+    "model_id": "table_0049"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0075.txt",
+    "category": "table",
+    "model_id": "table_0075"
+  },
+  {
+    "path": "data/shapenet/train/table/table_0061.txt",
+    "category": "table",
+    "model_id": "table_0061"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0048.txt",
+    "category": "airplane",
+    "model_id": "airplane_0048"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0074.txt",
+    "category": "airplane",
+    "model_id": "airplane_0074"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0060.txt",
+    "category": "airplane",
+    "model_id": "airplane_0060"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0061.txt",
+    "category": "airplane",
+    "model_id": "airplane_0061"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0075.txt",
+    "category": "airplane",
+    "model_id": "airplane_0075"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0049.txt",
+    "category": "airplane",
+    "model_id": "airplane_0049"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0063.txt",
+    "category": "airplane",
+    "model_id": "airplane_0063"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0077.txt",
+    "category": "airplane",
+    "model_id": "airplane_0077"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0088.txt",
+    "category": "airplane",
+    "model_id": "airplane_0088"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0089.txt",
+    "category": "airplane",
+    "model_id": "airplane_0089"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0076.txt",
+    "category": "airplane",
+    "model_id": "airplane_0076"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0062.txt",
+    "category": "airplane",
+    "model_id": "airplane_0062"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0066.txt",
+    "category": "airplane",
+    "model_id": "airplane_0066"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0072.txt",
+    "category": "airplane",
+    "model_id": "airplane_0072"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0099.txt",
+    "category": "airplane",
+    "model_id": "airplane_0099"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0098.txt",
+    "category": "airplane",
+    "model_id": "airplane_0098"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0073.txt",
+    "category": "airplane",
+    "model_id": "airplane_0073"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0067.txt",
+    "category": "airplane",
+    "model_id": "airplane_0067"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0071.txt",
+    "category": "airplane",
+    "model_id": "airplane_0071"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0065.txt",
+    "category": "airplane",
+    "model_id": "airplane_0065"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0059.txt",
+    "category": "airplane",
+    "model_id": "airplane_0059"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0058.txt",
+    "category": "airplane",
+    "model_id": "airplane_0058"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0064.txt",
+    "category": "airplane",
+    "model_id": "airplane_0064"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0070.txt",
+    "category": "airplane",
+    "model_id": "airplane_0070"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0017.txt",
+    "category": "airplane",
+    "model_id": "airplane_0017"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0003.txt",
+    "category": "airplane",
+    "model_id": "airplane_0003"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0002.txt",
+    "category": "airplane",
+    "model_id": "airplane_0002"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0016.txt",
+    "category": "airplane",
+    "model_id": "airplane_0016"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0028.txt",
+    "category": "airplane",
+    "model_id": "airplane_0028"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0000.txt",
+    "category": "airplane",
+    "model_id": "airplane_0000"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0014.txt",
+    "category": "airplane",
+    "model_id": "airplane_0014"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0015.txt",
+    "category": "airplane",
+    "model_id": "airplane_0015"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0001.txt",
+    "category": "airplane",
+    "model_id": "airplane_0001"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0029.txt",
+    "category": "airplane",
+    "model_id": "airplane_0029"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0005.txt",
+    "category": "airplane",
+    "model_id": "airplane_0005"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0011.txt",
+    "category": "airplane",
+    "model_id": "airplane_0011"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0039.txt",
+    "category": "airplane",
+    "model_id": "airplane_0039"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0038.txt",
+    "category": "airplane",
+    "model_id": "airplane_0038"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0010.txt",
+    "category": "airplane",
+    "model_id": "airplane_0010"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0004.txt",
+    "category": "airplane",
+    "model_id": "airplane_0004"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0012.txt",
+    "category": "airplane",
+    "model_id": "airplane_0012"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0006.txt",
+    "category": "airplane",
+    "model_id": "airplane_0006"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0007.txt",
+    "category": "airplane",
+    "model_id": "airplane_0007"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0013.txt",
+    "category": "airplane",
+    "model_id": "airplane_0013"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0036.txt",
+    "category": "airplane",
+    "model_id": "airplane_0036"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0022.txt",
+    "category": "airplane",
+    "model_id": "airplane_0022"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0023.txt",
+    "category": "airplane",
+    "model_id": "airplane_0023"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0037.txt",
+    "category": "airplane",
+    "model_id": "airplane_0037"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0009.txt",
+    "category": "airplane",
+    "model_id": "airplane_0009"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0021.txt",
+    "category": "airplane",
+    "model_id": "airplane_0021"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0035.txt",
+    "category": "airplane",
+    "model_id": "airplane_0035"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0034.txt",
+    "category": "airplane",
+    "model_id": "airplane_0034"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0020.txt",
+    "category": "airplane",
+    "model_id": "airplane_0020"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0008.txt",
+    "category": "airplane",
+    "model_id": "airplane_0008"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0024.txt",
+    "category": "airplane",
+    "model_id": "airplane_0024"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0030.txt",
+    "category": "airplane",
+    "model_id": "airplane_0030"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0018.txt",
+    "category": "airplane",
+    "model_id": "airplane_0018"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0019.txt",
+    "category": "airplane",
+    "model_id": "airplane_0019"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0031.txt",
+    "category": "airplane",
+    "model_id": "airplane_0031"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0025.txt",
+    "category": "airplane",
+    "model_id": "airplane_0025"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0033.txt",
+    "category": "airplane",
+    "model_id": "airplane_0033"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0027.txt",
+    "category": "airplane",
+    "model_id": "airplane_0027"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0026.txt",
+    "category": "airplane",
+    "model_id": "airplane_0026"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0032.txt",
+    "category": "airplane",
+    "model_id": "airplane_0032"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0069.txt",
+    "category": "airplane",
+    "model_id": "airplane_0069"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0055.txt",
+    "category": "airplane",
+    "model_id": "airplane_0055"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0041.txt",
+    "category": "airplane",
+    "model_id": "airplane_0041"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0096.txt",
+    "category": "airplane",
+    "model_id": "airplane_0096"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0082.txt",
+    "category": "airplane",
+    "model_id": "airplane_0082"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0083.txt",
+    "category": "airplane",
+    "model_id": "airplane_0083"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0097.txt",
+    "category": "airplane",
+    "model_id": "airplane_0097"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0040.txt",
+    "category": "airplane",
+    "model_id": "airplane_0040"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0054.txt",
+    "category": "airplane",
+    "model_id": "airplane_0054"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0068.txt",
+    "category": "airplane",
+    "model_id": "airplane_0068"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0042.txt",
+    "category": "airplane",
+    "model_id": "airplane_0042"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0056.txt",
+    "category": "airplane",
+    "model_id": "airplane_0056"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0081.txt",
+    "category": "airplane",
+    "model_id": "airplane_0081"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0095.txt",
+    "category": "airplane",
+    "model_id": "airplane_0095"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0094.txt",
+    "category": "airplane",
+    "model_id": "airplane_0094"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0080.txt",
+    "category": "airplane",
+    "model_id": "airplane_0080"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0057.txt",
+    "category": "airplane",
+    "model_id": "airplane_0057"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0043.txt",
+    "category": "airplane",
+    "model_id": "airplane_0043"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0047.txt",
+    "category": "airplane",
+    "model_id": "airplane_0047"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0053.txt",
+    "category": "airplane",
+    "model_id": "airplane_0053"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0084.txt",
+    "category": "airplane",
+    "model_id": "airplane_0084"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0090.txt",
+    "category": "airplane",
+    "model_id": "airplane_0090"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0091.txt",
+    "category": "airplane",
+    "model_id": "airplane_0091"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0085.txt",
+    "category": "airplane",
+    "model_id": "airplane_0085"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0052.txt",
+    "category": "airplane",
+    "model_id": "airplane_0052"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0046.txt",
+    "category": "airplane",
+    "model_id": "airplane_0046"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0050.txt",
+    "category": "airplane",
+    "model_id": "airplane_0050"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0044.txt",
+    "category": "airplane",
+    "model_id": "airplane_0044"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0078.txt",
+    "category": "airplane",
+    "model_id": "airplane_0078"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0093.txt",
+    "category": "airplane",
+    "model_id": "airplane_0093"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0087.txt",
+    "category": "airplane",
+    "model_id": "airplane_0087"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0086.txt",
+    "category": "airplane",
+    "model_id": "airplane_0086"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0092.txt",
+    "category": "airplane",
+    "model_id": "airplane_0092"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0079.txt",
+    "category": "airplane",
+    "model_id": "airplane_0079"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0045.txt",
+    "category": "airplane",
+    "model_id": "airplane_0045"
+  },
+  {
+    "path": "data/shapenet/train/airplane/airplane_0051.txt",
+    "category": "airplane",
+    "model_id": "airplane_0051"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0059.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0059"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0065.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0065"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0071.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0071"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0070.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0070"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0064.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0064"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0058.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0058"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0072.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0072"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0066.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0066"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0099.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0099"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0098.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0098"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0067.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0067"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0073.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0073"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0077.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0077"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0063.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0063"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0088.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0088"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0089.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0089"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0062.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0062"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0076.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0076"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0060.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0060"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0074.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0074"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0048.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0048"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0049.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0049"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0075.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0075"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0061.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0061"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0006.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0006"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0012.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0012"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0013.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0013"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0007.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0007"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0039.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0039"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0011.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0011"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0005.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0005"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0004.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0004"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0010.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0010"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0038.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0038"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0014.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0014"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0000.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0000"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0028.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0028"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0029.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0029"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0001.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0001"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0015.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0015"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0003.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0003"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0017.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0017"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0016.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0016"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0002.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0002"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0027.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0027"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0033.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0033"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0032.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0032"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0026.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0026"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0018.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0018"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0030.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0030"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0024.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0024"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0025.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0025"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0031.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0031"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0019.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0019"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0035.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0035"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0021.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0021"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0009.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0009"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0008.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0008"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0020.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0020"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0034.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0034"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0022.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0022"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0036.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0036"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0037.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0037"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0023.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0023"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0078.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0078"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0044.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0044"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0050.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0050"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0087.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0087"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0093.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0093"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0092.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0092"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0086.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0086"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0051.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0051"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0045.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0045"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0079.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0079"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0053.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0053"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0047.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0047"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0090.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0090"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0084.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0084"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0085.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0085"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0091.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0091"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0046.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0046"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0052.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0052"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0056.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0056"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0042.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0042"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0095.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0095"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0081.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0081"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0080.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0080"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0094.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0094"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0043.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0043"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0057.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0057"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0041.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0041"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0055.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0055"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0069.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0069"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0082.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0082"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0096.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0096"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0097.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0097"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0083.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0083"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0068.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0068"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0054.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0054"
+  },
+  {
+    "path": "data/shapenet/train/watercraft/watercraft_0040.txt",
+    "category": "watercraft",
+    "model_id": "watercraft_0040"
+  }
+]
