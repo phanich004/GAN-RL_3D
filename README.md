@@ -318,7 +318,7 @@ The framework demonstrates significant improvements in:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**Original Work Attribution**: This implementation builds upon the research presented in "RL-GAN-Net: A Reinforcement Learning Agent Controlled GAN Network for Real-Time Point Cloud Shape Completion" by Sarmad et al. (CVPR 2019). We acknowledge and respect the original authors' contributions to the field.
+**Original Work Attribution**: This implementation builds upon the research presented in "RL-GAN-Net: A Reinforcement Learning Agent Controlled GAN Network for Real-Time Point Cloud Shape Completion" by Sarmad et al. (CVPR 2019). 
 
 ## Acknowledgments
 
